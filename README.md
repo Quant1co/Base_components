@@ -1,4 +1,4 @@
-#Примеры процедурной генерация текстур для видеоигр
+# Примеры процедурной генерация текстур для видеоигр
 
 [![Godot 4.3](https://img.shields.io/badge/Godot-4.3-%23478cbf)](https://godotengine.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
