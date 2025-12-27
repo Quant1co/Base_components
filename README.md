@@ -46,5 +46,5 @@
 
 2. **Запуск проекта**:
 ```bash
-git clone https://github.com/Quant1co/Procedural_Shaders.git
+git clone https://github.com/Quant1co/Base_components.git
 ```
